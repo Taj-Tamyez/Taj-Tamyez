@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taj-Tamyez
 - 👀 I’m interested in learning to code and learning to use GitHub
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning front-end development and anything on UI!
 - 💞️ I’m looking to collaborate on building websites
 - 📫 How to reach me : I think no one would ever want to reach me for any reason.
 
